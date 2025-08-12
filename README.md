@@ -1,6 +1,7 @@
 # 💫 About Me:
 🔭 I’m currently working on: An applied ML project for assessing mathematics learning in higher education, and exploring finance-related data analysis projects<br><br>🤝 I’m looking to collaborate on: AI/ML-based solutions, fintech tools, and creative tech projects<br><br>🧠 I’m looking for help with: Optimizing machine learning models and improving algorithm efficiency<br><br>🌱 I’m currently learning: Python for finance, Java basics, and C++ for algorithmic trading<br><br>💬 Ask me about: Tech in finance, data analysis, and project ideation<br><br>⚡ Fun fact: I combine finance and AI to make data feel like money in the bank
 
+![image alt]([image_url](https://github.com/shettymahindra-l/shettymahindra-l/blob/main/crypto-tech.gif?raw=true))
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/mahishettyy12) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mahishetty12) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shettymahindra-l) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/mahishetty_12) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shettymahindra.l@gmail.com) 
